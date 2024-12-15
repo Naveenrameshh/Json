@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "employee@example.com",
+      "password": "employee123",
+      "role": "employee"
+    },
+    {
+      "id": "3",
+      "email": "Naveen Ramesh",
+      "password": "Naveen321",
+      "role": "employee"
+    },
+    {
+      "id": "4",
+      "email": "vijay",
+      "password": "123456",
+      "role": "employee"
+    },
+    {
+      "id": "5",
+      "email": "Ragavi",
+      "password": "123456",
+      "role": "employee"
+    },
+    {
+      "id": "6",
+      "email": "Arockiya Naveen",
+      "password": "123456",
+      "role": "employee"
+    },
+    {
+      "id": "7",
+      "email": "Bharath",
+      "password": "123456",
+      "role": "employee"
+    },
+    {
+      "id": "8",
+      "email": "tamil",
+      "password": "12345",
+      "role": "employee"
+    }
+  ],
+  "logs": [
+    {
+      "id": "218b",
+      "userId": "3",
+      "email": "Naveen Ramesh",
+      "date": "12/12/2024",
+      "punchIn": "03:29 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "morningBreakStart": "03:29 PM",
+      "morningBreakEnd": "03:26 PM",
+      "lunchStart": "03:26 PM",
+      "lunchEnd": "04:12 PM",
+      "eveningBreakStart": "03:26 PM",
+      "eveningBreakEnd": "04:10 PM",
+      "punchOut": "04:13 PM"
+    },
+    {
+      "id": "bb04",
+      "userId": "2",
+      "email": "employee@example.com",
+      "date": "12/12/2024",
+      "punchIn": "03:52 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "morningBreakStart": "03:52 PM",
+      "morningBreakEnd": "03:52 PM",
+      "lunchStart": "03:52 PM",
+      "lunchEnd": "03:52 PM",
+      "eveningBreakStart": "03:52 PM",
+      "eveningBreakEnd": "03:52 PM",
+      "punchOut": "03:53 PM"
+    },
+    {
+      "id": "eb10",
+      "userId": "6",
+      "email": "Arockiya Naveen",
+      "date": "12/12/2024",
+      "punchIn": "04:02 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "morningBreakStart": "04:02 PM",
+      "morningBreakEnd": "04:02 PM",
+      "lunchStart": "04:02 PM",
+      "lunchEnd": "04:02 PM",
+      "eveningBreakStart": "04:02 PM",
+      "eveningBreakEnd": "04:02 PM",
+      "punchOut": "04:02 PM"
+    },
+    {
+      "userId": "4",
+      "email": "vijay",
+      "date": "12/12/2024",
+      "punchIn": "06:05 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "id": "e5a2",
+      "morningBreakStart": "06:05 PM",
+      "morningBreakEnd": "06:06 PM",
+      "lunchStart": "06:22 PM",
+      "lunchEnd": "06:27 PM",
+      "eveningBreakStart": "06:27 PM",
+      "eveningBreakEnd": "06:28 PM",
+      "punchOut": "06:28 PM"
+    },
+    {
+      "userId": "5",
+      "email": "Ragavi",
+      "date": "12/12/2024",
+      "punchIn": "06:29 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "id": "dd68",
+      "morningBreakStart": "06:29 PM",
+      "morningBreakEnd": "06:35 PM",
+      "lunchStart": "06:35 PM",
+      "lunchEnd": "06:35 PM",
+      "eveningBreakStart": "06:35 PM",
+      "eveningBreakEnd": "06:35 PM",
+      "punchOut": "06:35 PM"
+    },
+    {
+      "userId": "7",
+      "email": "Bharath",
+      "date": "12/12/2024",
+      "punchIn": "07:34 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "id": "a9a7",
+      "morningBreakStart": "07:34 PM",
+      "morningBreakEnd": "07:34 PM",
+      "lunchStart": "07:34 PM",
+      "lunchEnd": "07:34 PM",
+      "eveningBreakStart": "07:34 PM",
+      "eveningBreakEnd": "07:34 PM",
+      "punchOut": "07:34 PM"
+    },
+    {
+      "userId": "3",
+      "email": "Naveen Ramesh",
+      "date": "12/13/2024",
+      "punchIn": "12:48 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "id": "db08",
+      "morningBreakStart": "12:49 PM",
+      "morningBreakEnd": "12:50 PM",
+      "lunchStart": "12:50 PM",
+      "lunchEnd": "12:51 PM",
+      "eveningBreakStart": "12:51 PM",
+      "eveningBreakEnd": "12:51 PM",
+      "punchOut": "12:51 PM"
+    },
+    {
+      "userId": "4",
+      "email": "vijay",
+      "date": "12/13/2024",
+      "punchIn": "01:13 PM",
+      "totalBreakTime": 0,
+      "workingTime": 0,
+      "id": "1983",
+      "morningBreakStart": "01:13 PM",
+      "morningBreakEnd": "01:13 PM",
+      "lunchStart": "01:13 PM",
+      "lunchEnd": "01:13 PM",
+      "eveningBreakStart": "01:13 PM",
+      "eveningBreakEnd": "01:13 PM",
+      "punchOut": "01:13 PM"
+    },
+    {
+      "userId": "5",
+      "email": "Ragavi",
+      "date": "12/13/2024",
+      "punchIn": "02:27 PM",
+      "totalBreakTime": null,
+      "workingTime": 0,
+      "id": "7b3d",
+      "morningBreakStart": "02:27 PM",
+      "morningBreakEnd": "02:27 PM",
+      "lunchStart": "02:27 PM",
+      "lunchEnd": "02:28 PM",
+      "eveningBreakStart": "02:28 PM",
+      "eveningBreakEnd": "02:28 PM",
+      "punchOut": "02:28 PM"
+    },
+    {
+      "userId": "8",
+      "email": "tamil",
+      "date": "12/13/2024",
+      "punchIn": "04:23 PM",
+      "totalBreakTime": null,
+      "workingTime": null,
+      "id": "9bdf",
+      "morningBreakStart": "04:23 PM",
+      "morningBreakEnd": "04:23 PM",
+      "lunchStart": "04:23 PM",
+      "lunchEnd": "04:23 PM",
+      "eveningBreakStart": "04:23 PM",
+      "eveningBreakEnd": "04:23 PM",
+      "punchOut": "04:23 PM"
+    }
+  ]
+}
